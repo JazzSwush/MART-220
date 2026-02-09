@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../../../../../../Downloads/Feb 4, 2026/Feb 4, 2026/assets"
+		},
+		{
+			"name": "images",
+			"path": "images"
+		},
+		{
+			"name": "font",
+			"path": "font"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "images"
+	}
+}
