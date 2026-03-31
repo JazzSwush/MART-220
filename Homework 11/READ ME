@@ -1,0 +1,5 @@
+I used the examples and videos to help me work with the particles, but I went online to help me implement it with the character and enemies. I used Gen AI when I had error issues 
+that I did not know how to fix and some debugging with character padding. I did something that had the player leave the canvas, so I got help debugging that area. The challenges 
+were implementing the changes to the player and enemy because of the interaction between those characters. They are more complex then the food. I just added particles to the foods.
+Overall, I learned how to implement particls to different things and show a visual to what is positive and negative. I also learn to conquer some collision errors when it came to 
+player and enemy and put knockback.
