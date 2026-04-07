@@ -37,7 +37,7 @@ function draw() {
     pop();
   }
 
-  //shape at mous position
+  //shape at mouse position
   var mx = mouseX - width / 2;
   var my = mouseY - height / 2;
 
