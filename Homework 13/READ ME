@@ -1,0 +1,5 @@
+For the homework, I just revised the mouse clicking area and added a 3D model I made. I also removed the materials for the shapes so I could add pmg textures to them instead.
+For my 3D model, I made it in blender, but was not ablle to include the textures I made for it which is a bummer. I asked AI to help me with this issue, but I was not able
+to be successful because p5 does not support my UDIM's and I do not feel like changing my UV maps. So, I just have the model of it without the textures. If you want to see what
+the textures is supposed to look like, the image for the base color is there too. The model is a cat model on a platform that was played by a child. That is what I was trying to 
+make atleast. I used substance painter for the textures. 
