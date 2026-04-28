@@ -1,0 +1,6 @@
+Not my best work, wish I had more time but I had other projects to do as well. I could not get the buttons to work, so this is the result. I wish it worked but I did not know how.
+My if/then logic is when the player runs one of the aliens, then the alien says a dialogue. The other alien was supposed to do it but it did not happen.
+For the loading screen, I just had asteroids collide and it transitions to the next scene.
+When the player gets all the stars, it goes to the win screen that displays "Player 1 Win" and shows a play again button. The same goes for end condition. When the player dies,
+then it shows a "Game Over" screen and theres a play again button. But sadly, none of the buttons work because I could not figure it out after a couple hours medling with the
+program.
